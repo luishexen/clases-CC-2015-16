@@ -105,10 +105,6 @@ Uso de sistemas de virtualización: Ejercicios
 
 **Modifica y actualiza tu aplicación**
 
---
-
-**
-
 
 ===
 
@@ -117,4 +113,4 @@ Uso de sistemas de virtualización: Ejercicios
 
 --
 
-**
+*La aplicación de prueba se encuentra accesible pinchando* [AQUÍ](ccacoes.eu-gb.mybluemix.net)
