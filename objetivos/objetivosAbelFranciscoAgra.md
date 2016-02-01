@@ -93,3 +93,36 @@ Lista de objetivos
 * [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 * [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 * [X] Entender la conexión entre repositorios y sistemas de producción y configurarlos para despliegues automáticos.
+
+###Tema 3 - Virtualización ligera usando contenedores
+
+* [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+* [X] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+* [X] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+* [X] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+* [X] Documentar y mantener una plataforma virtual.
+* [X] Optimizar aplicaciones sobre plataformas virtuales.
+* [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, _Utility Computing_, _Software as a Service_) e implementaciones tales como _Google AppSpot_, _OpenShift_ o _Heroku_.
+* [X] Realizar tareas de administración en infraestructura virtual.
+* [X] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+* [X] Crear infraestructuras virtuales completas.
+* [X] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+###Tema 4 - Virtualización completa: uso de máquinas virtuales
+
+* [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+* [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+* [X] Documentar y mantener una plataforma virtual.
+* [X] Realizar tareas de administración de infraestructuras virtuales.
+
+###Tema 5 - Gestión de infraestructuras virtuales
+
+* [] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+* [] Documentar y mantener una plataforma virtual.
+* [] Realizar tareas de administración en infraestructura virtual.
+* [] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+* [] Saber cómo aplicarlos en un caso determinado.
+* [] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
+
+
+

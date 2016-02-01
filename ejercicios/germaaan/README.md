@@ -12,5 +12,7 @@ Directorio de los archivos con los ejercicios desarrollados por **Germán Martí
 
 * [Tema 1. Iniciación a DevOps: desarrollo basado en pruebas](tema_01/README.md)
 * [Tema 2. Desplegando aplicaciones en la nube: Uso de PaaS](tema_02/README.md)
-* Tema 3. Uso de sistemas de virtualización
-* Tema 4. Gestión de configuraciones
+* [Tema 3. Virtualización ligera usando contenedores](tema_03/README.md)
+* [Tema 4. Virtualización del almacenamiento](tema_04/README.md)
+* [Tema 5. Virtualización completa: uso de máquinas virtuales](tema_05/README.md)
+* [Tema 6. Gestión de infraestructuras virtuales](tema_06/README.md)

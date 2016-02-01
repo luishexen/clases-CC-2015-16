@@ -52,7 +52,7 @@ Se crea el package.json usando el comando npm init
 
 1.sudo npm install -g grunt-cli
 2.npm install docco grunt-docco --save-dev
-3.Gruntfiles.fs
+3.Gruntfile.js
 
     'use strict';  
     

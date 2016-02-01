@@ -64,11 +64,11 @@ Lista de objetivos: Quinta semana, 2 de noviembre 2015
 
 #### Objetivos principales
 
-- [ ] Entender el concepto de PaaS y su utilidad
-- [ ] Entender los mecanismos de despliegue de aplicaciones en un PaaS.
-- [ ] Examinar las diferencias entre las diferentes ofertas de PaaS.
+- [X] Entender el concepto de PaaS y su utilidad.
+- [X] Entender los mecanismos de despliegue de aplicaciones en un PaaS.
+- [X] Examinar las diferencias entre las diferentes ofertas de PaaS.
 
 #### Objetivos adicionales
 
 - [ ] Trabajar con los *add-ons* de los diferentes PaaS usados.
-- [ ] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
+- [X] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.

@@ -87,3 +87,48 @@
 
 - [X] Trabajar con los *add-ons* de los diferentes PaaS usados.
 - [X] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
+
+### Sexta semana, 9 de noviembre 2015
+#### Objetivos principales
+- [X] Entender el concepto de [Base de datos como servicio](http://jj.github.io/dbaas/).
+- [X] Estudiar los diferentes tipos de bases de datos existentes y cómo se pueden usar desde nuestras aplicaciones.
+- [X] Examinar las diferencias entre las diferentes ofertas de DBaaS.
+
+#### Objetivos adicionales
+- [X] Probar diferentes bases de datos NoSQL como Redis y ver la utilidad en una aplicación en la nube.
+- [X] Entender las tags de Git y su uso para despliegues y lanzamientos.
+- [X] Darse de alta en diferentes bases de datos en la nube que se puedan usar de forma experimental.
+
+### Séptima semana, 16 de noviembre 2015
+#### Objetivos principales
+- [X] Entender el concepto de PaaS y su utilidad.
+- [X] Entender los mecanismos de despliegue de aplicaciones en un PaaS.
+- [X] Examinar las diferencias entre las diferentes ofertas de PaaS.
+
+#### Objetivos adicionales
+- [X] Trabajar con los _add-ons_ de los diferentes PaaS usados.
+- [X] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
+- [X] Comentar cuestiones relacionadas con la segunda práctica.
+- [X] Ponerse al día de los ejercicios del segundo tema.
+
+### Octava semana, 23 de noviembre 2015
+#### Objetivos principales
+- [X] Entender la definición de la infraestructura virtual en PaaS.
+- [X] Examinar los componentes que se pueden usar en una aplicación desplegada en un PaaS.
+
+#### Objetivos adicionales
+- [X] Alta en diferentes PaaS y examinar sus parecidos y diferencias.
+- [X] Descargar los toolbelts de los diferentes PaaS y usarlos para despliegue automático.
+- [X] Altas en otros servicios que se puedan integrar en un PaaS.
+- [X] Experimentar con despliegues automáticos.
+
+### Novena semana, 30 de noviembre 2015
+#### Objetivos principales
+- [X] Entender los procesos y el concepto de virtualización ligera.
+- [X] Comprender su uso dentro de un proceso de integración y despliegue continuo.
+- [X] Conocer diferentes herramientas para llevar a cabo la virtualización.
+
+#### Objetivos adicionales
+- [X] Descargar herramientas para trabajar con `lxc` y `docker`.
+- [X] Comprender las herramientas que despliegan a infraestructura virtual.
+
