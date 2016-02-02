@@ -52,7 +52,6 @@ wget https://lxc-webpanel.github.io/tools/install.sh -O - | sudo bash
 
 Una vez descargado e instalado solo tendremos que acceder a la dirección [http://localhost:5000/](http://localhost:5000/) con el nombre de usuario y contraseña **admin**.
 
-![img](https://dl.dropboxusercontent.com/s/pdp26x2dai1jswo/eje04_img02.png)
 
 ## 2. Desde el panel restringir los recursos que pueden usar: CPU shares, CPUs que se pueden usar (en sistemas multinúcleo) o cantidad de memoria.
 
