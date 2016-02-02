@@ -69,3 +69,22 @@ Lista de objetivos
 * [X] Comentar cuestiones relacionadas con la segunda práctica.
 * [X] Ponerse al día de los ejercicios del segundo tema.
 
+###Clase del 23 de noviembre de 2015
+
+* [X] Entender la definición de la infraestructura virtual en PaaS.
+* [X] Examinar los componentes que se pueden usar en una aplicación desplegada en un PaaS.
+* [X] Alta en diferentes PaaS y examinar sus parecidos y diferencias.
+* [X] Descargar los toolbelts de los diferentes PaaS y usarlos para despliegue automático.
+* [X] Altas en otros servicios que se puedan integrar en un PaaS.
+* [X] Experimentar con despliegues automáticos.
+
+###Clase del 30 de novimbre de 2015
+
+* [X] Entender los procesos y el concepto de virtualización ligera.
+* [X] Comprender su uso dentro de un proceso de integración y despliegue continuo.
+* [X] Conocer diferentes herramientas para llevar a cabo la virtualización.
+* [X] Descargar herramientas para trabajar con lxc y docker.
+* [X] Comprender las herramientas que despliegan a infraestructura virtual.
+
+
+

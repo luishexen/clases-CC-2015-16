@@ -77,4 +77,18 @@ _________________________
 - [X] [Ejercicio 12](https://github.com/jmrodriguez90/clases-CC-2015-16/blob/master/ejercicios/JManuelRodriguez/03%20Virtualizaci%C3%B3n%20ligera%20usando%20contenedores/Ejercicio12.md)
 
 
+_________________________
 
+###Uso de sistemas de virtualización
+
+
+- [X] [Ejercicios](https://github.com/jmrodriguez90/clases-CC-2015-16/blob/master/ejercicios/JManuelRodriguez/04%20Uso%20de%20sistemas%20de%20virtualizaci%C3%B3n/Ejercicios.md)
+
+
+
+_________________________
+
+###Gestión de configuraciones
+
+
+- [X] [Ejercicios](https://github.com/jmrodriguez90/clases-CC-2015-16/blob/master/ejercicios/JManuelRodriguez/05%20Gesti%C3%B3n%20de%20configuraciones/Ejercicios.md)
