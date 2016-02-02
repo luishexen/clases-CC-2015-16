@@ -83,8 +83,34 @@ Uso de sistemas de virtualización: Ejercicios
 ===
 
 
-**Instalar Apache2 o nginX y probar que sirve páginas web (acceder desde el host a la IP del servidor virtualizado, bien con cURL o con un navegador)**
+**Crear una cuenta en BlueMix**
 
 --
 
-*Se pudo instalar sin problemas nginX y comprobar que sirve páginas web*
+*Cuenta creada en blueMix con el nick jmrodriguez90*
+
+
+===
+
+
+**Desplegar una aplicación web sencilla usando el lenguaje que se desee**
+
+--
+
+*Se creó la app CCACOES usando java como lenguaje*
+
+
+===
+
+
+**Modifica y actualiza tu aplicación**
+
+
+===
+
+
+**Monitoriza tu aplicación durante el tiempo que está en ejecución**
+
+--
+
+*La aplicación de prueba se encuentra accesible pinchando* [AQUÍ](http://ccacoes.eu-gb.mybluemix.net)
